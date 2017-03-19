@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	font-family: 'Slabo 27px', serif;
+}
+
+header {
+	background-color:#607D8B;
+	text-align: center;
+	padding: 5px;
+	color: white;
+}
+
+	header .profile-picture {
+		border-radius: 50%;
+		width: 150px;
+		height: 150px;
+	}
+
+section {
+	background-color: #CFD8DC;
+	padding: 10px;
+	margin: 20px;
+	border-radius: 15px;
+}
+
+	section .title {
+        color: #616161;
+    }
+
+    section .content {
+        color: #757575;
+    }
+
+footer {
+	background-color: #607D8B;
+	text-align: center;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
